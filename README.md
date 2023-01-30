@@ -74,7 +74,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-![Error Code List Helper](https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-http-error-codes)
+![Error Code List Helper](https://umbraco.com/knowledge-base/http-status-codes/)
 
 
 
