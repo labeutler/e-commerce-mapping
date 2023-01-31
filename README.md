@@ -76,6 +76,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![Error Code List Helper](https://umbraco.com/knowledge-base/http-status-codes/)
 
+![Model Helper](https://stackoverflow.com/questions/23128816/sequelize-js-ondelete-cascade-is-not-deleting-records-sequelize)
+
 
 
 List your collaborators, if any, with links to their GitHub profiles.
