@@ -1,14 +1,14 @@
-# e-commerce-mapping
-mapping the back end of an e-commerce website
+# eCommerce Mapping
+Mapping the back end of an e-commerce website and displaying, with video, how the product works.
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Taking the code that was provided and using the previous assignments and Google to assist with completing the items required to make the back end of this project work.  
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Using the different tools, Insomnia, MySQL, Express.js and Sequelize packages to complete this has been a new challenge.  I've learned a lot with each of them, so now I'm feeling more comfortable using them. Even the use of the videos for the video walkthroughs. 
+
+Personal [GitHub](https://github.com/labeutler/e-commerce-mapping) Link
+
 
 ### User Story
 
@@ -36,18 +36,30 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+N/A
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+THe following items will be required
+
+* npm init
+* npm install mysql2
+* npm install sequelize
+* npm install dotenv
+* Insomnia
 
 ## Usage
+
+To get started, you will need to run through the following steps in your terminal command line.
+* mysql -u root -p
+* enter password
+* SOURCE db/schema.sql
+* \q
+* npm install
+* npm run seed
+* npm start
+
+Once complete, then open Insomnia to review the information.  
 
 Please watch the videos for demonstrations of how this works. The video will include a walkthrough of the following:
 
@@ -60,6 +72,7 @@ Please watch the videos for demonstrations of how this works. The video will inc
 * Demonstrate how to seed the database from the command line.
 
 * Demonstrate how to start the application’s server.
+
 
 * Demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
 
@@ -74,20 +87,12 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-![Error Code List Helper](https://umbraco.com/knowledge-base/http-status-codes/)
+[Error Code List Helper](https://umbraco.com/knowledge-base/http-status-codes/)
 
-![Model Helper](https://stackoverflow.com/questions/23128816/sequelize-js-ondelete-cascade-is-not-deleting-records-sequelize)
-
-
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Model Helper](https://stackoverflow.com/questions/23128816/sequelize-js-ondelete-cascade-is-not-deleting-records-sequelize)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+No license was selected for this project.
 
 ---
