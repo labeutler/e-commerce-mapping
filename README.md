@@ -74,22 +74,21 @@ Once complete, then open Insomnia to review the information.
 * Demonstrate how to start the application’s server.</br>
 
 
-### Please watch this video as to how we are [GET Routes](/GET%20ALL.mp4) for ALL Categories, Products and Tags in Insomnia.
+### Please watch this video as to how we are [GET Routes](./images/GET%20ALL.mp4) for ALL Categories, Products and Tags in Insomnia.
 
 * Demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
+![alt text](./images/get%20ALL.png)
 
-### Please watch this video as to how we are [GET Routes](/GET%20ONE.mp4) for ONE Category, Product and Tag in Insomnia.
+### Please watch this video as to how we are [GET Routes](./images/GET%20ONE.mp4) for ONE Category, Product and Tag in Insomnia.
 
 * Demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
+![alt text](./images/get%20ONE.png)
 
-### Please watch this video as to how we are [POST, PUT, and DELETE Routes](/POST%20PUT%20DELETE.mp4) for categories being tested in Insomnia.
+### Please watch this video as to how we are [POST, PUT, and DELETE Routes](./images/POST%20PUT%20DELETE.mp4) for categories being tested in Insomnia.
 
 * Demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
+![alt text](./images/PUT.png)
 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
