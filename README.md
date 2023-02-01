@@ -34,7 +34,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 N/A
 
@@ -61,7 +61,7 @@ To get started, you will need to run through the following steps in your termina
 
 Once complete, then open Insomnia to review the information.  
 
-Please watch the videos for demonstrations of how this works. The video will include a walkthrough of the following:
+### Please watch this video as to how we are [Connecting to the Database](/Connecting%20with%20Sequelize.mp4). The video will include a walkthrough of the following:
 
 * Demonstrates the functionality of the e-commerce back end
 
@@ -71,12 +71,18 @@ Please watch the videos for demonstrations of how this works. The video will inc
 
 * Demonstrate how to seed the database from the command line.
 
-* Demonstrate how to start the application’s server.
+* Demonstrate how to start the application’s server.</br>
 
+
+### Please watch this video as to how we are [GET Routes](/GET%20ALL.mp4) for ALL Categories, Products and Tags in Insomnia.
 
 * Demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
 
+### Please watch this video as to how we are [GET Routes](/GET%20ONE.mp4) for ONE Category, Product and Tag in Insomnia.
+
 * Demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
+
+### Please watch this video as to how we are [POST, PUT, and DELETE Routes](/POST%20PUT%20DELETE.mp4) for categories being tested in Insomnia.
 
 * Demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
 
